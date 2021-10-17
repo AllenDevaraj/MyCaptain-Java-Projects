@@ -14,6 +14,7 @@ class Hello {
             for (int j = 0; j < 3; j++) {
                 System.out.print(sum[i][j] + "    ");
             }
-		}
-	}
+            System.out.println();
+	} 
+        }
 } 
